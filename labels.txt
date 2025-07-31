@@ -1,0 +1,3 @@
+0 G
+1 Clothing
+2 Books
